@@ -1,0 +1,6 @@
+1. Links
+
+https://www.dataquest.io/blog/regex-cheatsheet/
+
+https://www.debuggex.com/cheatsheet/regex/python
+
